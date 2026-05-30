@@ -1,0 +1,7 @@
+fluent-bit
+fluent-bit-aggregator
+fluent-bit-collector
+fluent-operator
+fluent-operator-fluent-bit-crds
+fluent-operator-fluentd-crds
+fluentd

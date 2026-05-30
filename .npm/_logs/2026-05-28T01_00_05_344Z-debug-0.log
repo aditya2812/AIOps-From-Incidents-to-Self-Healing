@@ -1,0 +1,19 @@
+0 verbose cli /usr/bin/node /usr/bin/npm
+1 info using npm@10.8.2
+2 info using node@v18.20.8
+3 silly config load:file:/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/ec2-user/aiops-dashboard/.npmrc
+5 silly config load:file:/home/ec2-user/.npmrc
+6 silly config load:file:/usr/etc/npmrc
+7 verbose title npm run build
+8 verbose argv "run" "build"
+9 verbose logfile logs-max:10 dir:/home/ec2-user/.npm/_logs/2026-05-28T01_00_05_344Z-
+10 verbose logfile /home/ec2-user/.npm/_logs/2026-05-28T01_00_05_344Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
+13 verbose cwd /home/ec2-user/aiops-dashboard
+14 verbose os Linux 6.1.168-203.330.amzn2023.x86_64
+15 verbose node v18.20.8
+16 verbose npm  v10.8.2
+17 verbose exit 0
+18 info ok
